@@ -26,6 +26,12 @@
       "title": "Me Streaming Component Reuse!",
       "description": "This stream is about refactoring!!!",
       "id": 6
+    },
+    {
+      "title": "My new stream",
+      "description": "Hello This is edited by new function",
+      "userId": "116381204127072428023",
+      "id": 7
     }
   ]
 }
